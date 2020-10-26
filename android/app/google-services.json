@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "216667146137",
+    "firebase_url": "https://ecommerce-flutter-4fea0.firebaseio.com",
+    "project_id": "ecommerce-flutter-4fea0",
+    "storage_bucket": "ecommerce-flutter-4fea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216667146137:android:e3185a5f1d99147e45b508",
+        "android_client_info": {
+          "package_name": "adoniasdantas.com.ecommerce_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216667146137-1s77cprq7gbshn2f2tnnih8sb1g311hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6TiEc3lKBp4hPmGQV48BtWmgcjV5_9jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216667146137-1s77cprq7gbshn2f2tnnih8sb1g311hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
